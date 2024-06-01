@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "alwaysStrict": true, // 严格模式
+    "declaration": true, // 生成声明文件
+    "lib": [ // 编译目标
+      "DOM",
+      "ES2015",
+      "ES2016",
+      "ES2017",
+      "ES2020"
+    ],
+    "module": "ES6", // 模块规范
+    "outDir": "./dist", // 输出目录
+    "target": "ES5"
+  }
+}

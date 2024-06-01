@@ -1,0 +1,31 @@
+{
+  "name": "@yang-yong-xin/utils",
+  "version": "0.0.1",
+  "description": "常用工具包",
+  "main": "./dist/utils.js",
+  "types": "./dist/utils.d.ts",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "tsc",
+    "pub": "npm publish --access public"
+  },
+  "author": "YYX<3271310698@qq.com>",
+  "keywords": [
+    "util",
+    "typescript"
+  ],
+  "homepage": "https://github.com/YX916",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/YX916/utils"
+  },
+  "bugs": {
+    "url": "https://github.com/YX916/utils/issues"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.1.6"
+  }
+}
