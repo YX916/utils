@@ -11,6 +11,6 @@
     ],
     "module": "ES6", // 模块规范
     "outDir": "./dist", // 输出目录
-    "target": "ES5"
+    "target": "ESNext"
   }
 }
