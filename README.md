@@ -8,3 +8,7 @@
 [![npm license](https://img.shields.io/npm/l/@yang-yong-xin/utils.svg?style=flat-square)](https://img.shields.io/npm/l/@yang-yong-xin/utils.svg?style=flat-square)
 
 </div>
+
+## Install
+
+[![@yang-yong-xin/utils](https://nodei.co/npm/@yang-yong-xin/utils.png)](https://npmjs.org/package/@yang-yong-xin/utils)
