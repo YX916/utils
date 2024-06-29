@@ -7,6 +7,8 @@
 [![npm downloads](https://img.shields.io/npm/dm/@yang-yong-xin/utils.svg?style=flat-square)](https://npm-stat.com/charts.html?package=@yang-yong-xin/utils)
 [![npm license](https://img.shields.io/npm/l/@yang-yong-xin/utils.svg?style=flat-square)](https://img.shields.io/npm/l/@yang-yong-xin/utils.svg?style=flat-square)
 
+![Alt](https://repobeats.axiom.co/api/embed/9c83bd2eb6d763d53a12d362bd66a2460e4308f1.svg "Repobeats analytics image")
+
 </div>
 
 ## Install
